@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//O'Reilly//learning.oreilly.com//
+BEGIN:VEVENT
+SUMMARY:Beginning Splunk
+DTSTART;VALUE=DATE-TIME:20200501T140000Z
+DTEND;VALUE=DATE-TIME:20200501T180000Z
+DTSTAMP;VALUE=DATE-TIME:20200501T074434Z
+UID:0636920389019-0636920389033
+DESCRIPTION:Splunk is the most popular operational data intelligence platf
+ orm. Organizations use Splunk to collect\, parse and index petabyte scale 
+ machine data. Splunk is used in IT operations\, business analytics and SIE
+ M (security information and events management). It provides a versatile qu
+ ery language (Search Processing Language or SPL) and rich set of visualiza
+ tions that help users make sense of their machine data in numerous ways.\n
+ While Splunk is an extremely powerful platform\, there is a learning curve
+  for most users to fully understand its various features. Not learning the
+  correct techniques can lead to inaccurate results and missing out on time
+ -saving short-cuts. In this training session\, users will learn the most e
+ ffective techniques to make use of their machine data using Splunk. Studen
+ ts will be able to apply the techniques they learn immediately in their ow
+ n environment.\n\n\nGo to the event (https://learning.oreilly.com/live-tra
+ ining/courses/beginning-splunk/0636920389019/join/)\n
+LOCATION:Online
+ORGANIZER;CN=O´REILLY MEDIA:mailto:donotreply@oreilly.com
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-ALT-DESC;FMTTYPE=TEXT/HTML:\n<p>Splunk is the most popular operational d
+ ata intelligence platform. Organizations use Splunk to collect\, parse and
+  index petabyte scale machine data. Splunk is used in IT operations\, busi
+ ness analytics and SIEM (security information and events management). It p
+ rovides a versatile query language (Search Processing Language or SPL) and
+  rich set of visualizations that help users make sense of their machine da
+ ta in numerous ways.\nWhile Splunk is an extremely powerful platform\, the
+ re is a learning curve for most users to fully understand its various feat
+ ures. Not learning the correct techniques can lead to inaccurate results a
+ nd missing out on time-saving short-cuts. In this training session\, users
+  will learn the most effective techniques to make use of their machine dat
+ a using Splunk. Students will be able to apply the techniques they learn i
+ mmediately in their own environment.</p>\n<p><a href="https://learning.ore
+ illy.com/live-training/courses/beginning-splunk/0636920389019/join/">Go to
+  the event</a></p>\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Beginning Splunk
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
