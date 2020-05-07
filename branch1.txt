@@ -1,2 +1,2 @@
 Initial file to git rep
-some changes for Branch1
+Branch1
